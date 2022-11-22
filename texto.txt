@@ -1,3 +1,5 @@
 maçã é uma fruta que refresca
 
-maçã também é suculenta	
+maçã também é suculenta
+
+isto é um teste.	
